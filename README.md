@@ -15,20 +15,6 @@ Mechatronics Engineering Student at Thiagarajar College of Engineering (2023–2
 
 ---
 
-## 🧩 About Me
-
-🎓 B.E. Mechatronics Engineering Student (2023–2027)  
-🏫 Thiagarajar College of Engineering, Madurai
-
-I enjoy building engineering solutions that combine:
-
-- 🤖 Artificial Intelligence
-- 👁️ Computer Vision
-- ⚙️ Mechanical Design
-- 🏭 Industrial Automation
-
----
-
 ## 🚀 Featured Projects
 
 ### ⚙️ AI-Driven Parametric Synthesis of Mechanical Assemblies
@@ -148,21 +134,8 @@ https://github.com/sharan1409/Virtual-Desktop-Pet
 
 - 🥇 Team Lead — Alfa TKG Hackathon 2026
 - 🌍 Non-Technical Event Chair — ISHRAE Student Chapter
-- ⚽ TCE Football Team Player
+- ⚽ Goalkeeper — Thiagarajar College of Engineering Football Team
 - 🏅 South Zone & State-Level Silambam Medalist
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sharan1409&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sharan1409&theme=tokyonight&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sharan1409&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
@@ -178,6 +151,3 @@ https://github.com/sharan1409/Virtual-Desktop-Pet
   </a>
 </p>
 
-<p align="center">
-<i>Open to internships and research opportunities in Mechatronics, Robotics, Computer Vision, Embedded Systems, and AI for Engineering.</i>
-</p>
