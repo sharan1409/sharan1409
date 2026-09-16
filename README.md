@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sharan Raj G G 👋</h1>
 
 <h3 align="center">
-Mechatronics Engineering Student
+Mechatronics Engineering Student at Thiagarajar College of Engineering (2023–2027)
 </h3>
 
 <p align="center">
