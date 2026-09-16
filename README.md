@@ -8,10 +8,9 @@ Mechatronics Engineering Student | AI in Engineering | Computer Vision | Industr
   <a href="http://www.linkedin.com/in/sharan-raj-06537a2b7">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:sharanraj@student.tce.edu">
+  <a href="mailto:sharanraj1409@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=sharan1409&style=for-the-badge&color=blueviolet" />
 </p>
 
 ---
@@ -27,20 +26,6 @@ I enjoy building engineering solutions that combine:
 - 👁️ Computer Vision
 - ⚙️ Mechanical Design
 - 🏭 Industrial Automation
-- 🔌 Embedded Systems
-- 🚁 Robotics
-
-🏆 Team Lead — Alfa TKG Hackathon 2026
-
----
-
-## 📚 Currently Learning
-
-- Physics-Informed Neural Networks (PINNs)
-- Computer Vision for Industrial Applications
-- Embedded Systems Design
-- Industrial Automation & Control
-- Digital Twin Development
 
 ---
 
@@ -162,7 +147,7 @@ https://github.com/sharan1409/Virtual-Desktop-Pet
 ## 🏆 Achievements & Activities
 
 - 🥇 Team Lead — Alfa TKG Hackathon 2026
-- 🌍 ISHRAE Student Member
+- 🌍 Non-Technical Event Chair — ISHRAE Student Chapter
 - ⚽ TCE Football Team Player
 - 🏅 South Zone & State-Level Silambam Medalist
 
