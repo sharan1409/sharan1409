@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Sharan Raj G G 👋</h1>
 
 <h3 align="center">
-Mechatronics Engineering Student | AI in Engineering | Computer Vision | Industrial Automation
+Mechatronics Engineering Student
 </h3>
 
 <p align="center">
