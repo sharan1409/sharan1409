@@ -132,9 +132,10 @@ https://github.com/sharan1409/Virtual-Desktop-Pet
 
 ## 🏆 Achievements & Activities
 
-- 🥇 Team Lead — Alfa TKG Hackathon 2026
 - 🌍 Non-Technical Event Chair — ISHRAE Student Chapter
-- ⚽ Goalkeeper — Thiagarajar College of Engineering Football Team
+- 🥇 Team Lead — SIH 2024, 2025, 2026
+- 🥇 Team Lead — Alfa TKG Hackathon 2026
+- ⚽ Football Goalkeeper — Thiagarajar College of Engineering Football Team
 - 🏅 South Zone & State-Level Silambam Medalist
 
 ---
